@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @gitkoogie
+- 👀 I’m interested in Electrical Circuits, Programming and Machine Learning
