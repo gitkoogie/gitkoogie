@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @gitkoogie
-- 👀 I’m interested in Electrical Circuits, Programming and Machine Learning
+- 👀 I’m interested in Electrical Circuits, Programming and Investing
+- Github is for sharing personal projects and hopefully motvate some people to tinker themselves.
